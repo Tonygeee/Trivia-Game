@@ -1,0 +1,34 @@
+*{
+	color: #ffffff;
+}
+body{
+	background-image: url("Images/background.jpeg");
+}
+
+h1{
+	padding-left: 50px;
+}
+.timer{
+	margin-left: 120px;
+}
+#questions-container{
+	text-align: center;
+	line-height: 40px;
+}
+input{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+#dontButton{
+	margin-left: 50px;
+}
+.results{
+	padding-left: 50px;
+}
+button{
+	margin-left: 50px;
+	background-color: black;
+}
+.message{
+	padding-left: 50px;
+}
